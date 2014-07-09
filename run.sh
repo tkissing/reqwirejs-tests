@@ -38,4 +38,4 @@ cloneDependency "domReady"
 cloneDependency "requirejs" "jrburke"
 cloneDependency "reqwirejs" "tkissing"
 
-node server.js
+npm install && node server.js

@@ -1,0 +1,22 @@
+{
+  "name": "reqwirejs-tests",
+  "version": "0.1.0",
+  "description": "reqwirejs-tests ===============",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tkissing/reqwirejs-tests.git"
+  },
+  "author": "timo.kissing@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tkissing/reqwirejs-tests/issues"
+  },
+  "homepage": "https://github.com/tkissing/reqwirejs-tests",
+  "dependencies": {
+    "express": "^4.5.1"
+  }
+}
